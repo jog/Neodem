@@ -21,6 +21,7 @@ def sanity( ts_set, quant_fn ):
  
     """
     Given a quantisation function and a set of time series, computes the objective function score directly from the time series themselves.
+    Check update
     """
  
     score = 0
