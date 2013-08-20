@@ -1,1 +1,2 @@
-print "hello world"
+print "hello world\r",
+print "test"
